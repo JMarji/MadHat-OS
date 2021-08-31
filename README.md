@@ -23,6 +23,7 @@ SEL4 is a state-of-the-art microkernel that is used to assure secure code base t
 
 ### Why Rust? 
 - Security is a first class citizan in Rust. The Rust compiler will not compile unsecure code
+- Rust's design is good for systems programing as well as user level application programming 
 - The compiler messages are extermly helpfull in descerning why your program won't compile 
 - Rust is a fast compiled lanague with many of the benefits of modern lanaguages 
 - Compiled Rust code is small. Provided a smaller attack surface
